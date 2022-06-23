@@ -1,4 +1,4 @@
 # novo-curso
  
-[] task1
-[] task2
+- [] task1
+- [x] task2
